@@ -1,7 +1,0 @@
-const THRESHOLD = 100;
-const MAIN_COLOR = 'purple';
-const MODAL_WIDTH = 800;
-const LIST_LENGTH = 100;
-const DEFAULT_SORT = 'created_at';
-
-export { THRESHOLD, MAIN_COLOR, MODAL_WIDTH, LIST_LENGTH, DEFAULT_SORT };
